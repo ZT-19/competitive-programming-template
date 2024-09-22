@@ -5,6 +5,7 @@ using namespace std;
 #define ll long long
 #define ld long double
 #define sz(x) ((int)x.size())
+#define sl(x) ((int)x.length())
 #define all(a) (a).begin(), (a).end()
 
 const int MAX_N = 1e5 + 5;
