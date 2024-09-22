@@ -8,6 +8,7 @@ using namespace std;
 #define sl(x) ((int)x.length())
 #define all(a) (a).begin(), (a).end()
 #define INRANGE(i, j, n, m) ((min(i, j) >= 0) && (i < n) && (j < m))
+#define EXISTS(struct, k) ((struct).find(k) != (struct).end())
 
 const int MAX_N = 1e5 + 5;
 const ll MOD = 1e9 + 7;
